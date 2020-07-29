@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to Stacy Wray's test repository.👋
+
+- Only 96 days left until the election.
+- I ~crave~ **pizza** every day.
+
+```
+I love code blocks
+```
+
+
 
 <!--
 **stacywray/stacywray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
